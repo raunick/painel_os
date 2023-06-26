@@ -34,7 +34,7 @@ def painel_ti():
     max_os = maxfiltered_df.iloc[0]
     
     col1, col2, col3 = st.columns(3)
-    col1.metric(f"Setor que mais abriu OS:", f"{setor_mais_os} : {total_mais_os} %")
+    col1.metric(f"Setor que mais abriu OS:", f"{setor_mais_os} com {total_mais_os} %")
     col2.metric("OS mais antiga:", f"{min_os[0]}")
     col3.metric("OS mais nova:", f"{max_os[0]}")
     # Container para alinhar os gráficos horizontalmente
