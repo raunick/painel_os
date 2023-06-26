@@ -2,6 +2,8 @@
 
 Este aplicativo Streamlit, denominado "Painel TI", apresenta visualizações de dados e estatísticas relacionadas às Ordens de Serviço (OS) em um ambiente de Tecnologia da Informação (TI). O painel utiliza pandas, plotly.express e outras bibliotecas para manipulação e visualização dos dados.
 
+## veja online: https://painelosti.streamlit.app/
+
 ## 📋 Pré-requisitos
 Antes de executar o Painel TI, certifique-se de ter as seguintes bibliotecas instaladas:
 
