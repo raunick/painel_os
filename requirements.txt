@@ -1,0 +1,7 @@
+pandas
+streamlit
+altair
+vega_datasets
+time
+plotly
+datetime

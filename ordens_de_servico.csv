@@ -1,0 +1,101 @@
+Número OS,Status,Prioridade,Setor,Data
+OS1,Aberto,Alta,CC,2023-06-08
+OS2,Encerrada,Média,FAT,2023-06-09
+OS3,Encerrada,Alta,CTI,2023-06-16
+OS4,Em Processo,Baixa,PA,2023-06-09
+OS5,Encerrada,Alta,FAT,2023-06-27
+OS6,Encerrada,Baixa,PA,2023-06-09
+OS7,Em Processo,Alta,CC,2023-06-01
+OS8,Encerrada,Média,FAT,2023-06-15
+OS9,Aberto,Alta,PA,2023-06-07
+OS10,Em Processo,Baixa,PA,2023-06-28
+OS11,Encerrada,Alta,FAT,2023-06-15
+OS12,Encerrada,Baixa,PA,2023-06-15
+OS13,Em Processo,Alta,CC,2023-06-20
+OS14,Encerrada,Média,FAT,2023-06-21
+OS15,Encerrada,Alta,CTI,2023-06-08
+OS16,Em Processo,Baixa,PA,2023-06-04
+OS17,Aberto,Alta,FAT,2023-06-08
+OS18,Encerrada,Baixa,PA,2023-06-17
+OS19,Em Processo,Alta,CC,2023-06-17
+OS20,Encerrada,Média,FAT,2023-06-26
+OS21,Encerrada,Alta,PA,2023-06-10
+OS22,Em Processo,Baixa,PA,2023-06-27
+OS23,Encerrada,Alta,FAT,2023-06-12
+OS24,Encerrada,Baixa,PA,2023-06-19
+OS25,Aberto,Alta,CC,2023-06-28
+OS26,Encerrada,Média,FAT,2023-06-17
+OS27,Encerrada,Alta,CTI,2023-06-28
+OS28,Em Processo,Baixa,PA,2023-06-09
+OS29,Encerrada,Alta,FAT,2023-06-05
+OS30,Encerrada,Baixa,PA,2023-06-03
+OS31,Em Processo,Alta,CC,2023-06-05
+OS32,Encerrada,Média,FAT,2023-06-24
+OS33,Aberto,Alta,PA,2023-06-16
+OS34,Em Processo,Baixa,PA,2023-06-15
+OS35,Encerrada,Alta,FAT,2023-06-20
+OS36,Encerrada,Baixa,PA,2023-06-05
+OS37,Em Processo,Alta,CC,2023-06-04
+OS38,Encerrada,Média,FAT,2023-06-27
+OS39,Encerrada,Alta,CTI,2023-06-09
+OS40,Em Processo,Baixa,PA,2023-06-28
+OS41,Aberto,Alta,FAT,2023-06-14
+OS42,Encerrada,Baixa,PA,2023-06-17
+OS43,Em Processo,Alta,CC,2023-06-02
+OS44,Encerrada,Média,FAT,2023-06-08
+OS45,Encerrada,Alta,PA,2023-06-19
+OS46,Em Processo,Baixa,PA,2023-06-14
+OS47,Encerrada,Alta,FAT,2023-06-12
+OS48,Encerrada,Baixa,PA,2023-06-26
+OS49,Aberto,Alta,CC,2023-06-04
+OS50,Encerrada,Média,FAT,2023-06-11
+OS51,Encerrada,Alta,CTI,2023-06-24
+OS52,Em Processo,Baixa,PA,2023-06-23
+OS53,Encerrada,Alta,FAT,2023-06-23
+OS54,Encerrada,Baixa,PA,2023-06-03
+OS55,Em Processo,Alta,CC,2023-06-25
+OS56,Encerrada,Média,FAT,2023-06-18
+OS57,Aberto,Alta,PA,2023-06-07
+OS58,Em Processo,Baixa,PA,2023-06-17
+OS59,Encerrada,Alta,FAT,2023-06-13
+OS60,Encerrada,Baixa,PA,2023-06-15
+OS61,Em Processo,Alta,CC,2023-06-25
+OS62,Encerrada,Média,FAT,2023-06-21
+OS63,Encerrada,Alta,CTI,2023-06-27
+OS64,Em Processo,Baixa,PA,2023-06-13
+OS65,Aberto,Alta,FAT,2023-06-11
+OS66,Encerrada,Baixa,PA,2023-06-27
+OS67,Em Processo,Alta,CC,2023-06-22
+OS68,Encerrada,Média,FAT,2023-06-28
+OS69,Encerrada,Alta,PA,2023-06-27
+OS70,Em Processo,Baixa,PA,2023-06-05
+OS71,Encerrada,Alta,FAT,2023-06-28
+OS72,Encerrada,Baixa,PA,2023-06-14
+OS73,Aberto,Alta,CC,2023-06-13
+OS74,Encerrada,Média,FAT,2023-06-15
+OS75,Encerrada,Alta,CTI,2023-06-22
+OS76,Em Processo,Baixa,PA,2023-06-02
+OS77,Encerrada,Alta,FAT,2023-06-01
+OS78,Encerrada,Baixa,PA,2023-06-22
+OS79,Em Processo,Alta,CC,2023-06-25
+OS80,Encerrada,Média,FAT,2023-06-01
+OS81,Aberto,Alta,PA,2023-06-11
+OS82,Em Processo,Baixa,PA,2023-06-03
+OS83,Encerrada,Alta,FAT,2023-06-02
+OS84,Encerrada,Baixa,PA,2023-06-02
+OS85,Em Processo,Alta,CC,2023-06-15
+OS86,Encerrada,Média,FAT,2023-06-12
+OS87,Encerrada,Alta,CTI,2023-06-17
+OS88,Em Processo,Baixa,PA,2023-06-07
+OS89,Aberto,Alta,FAT,2023-06-24
+OS90,Encerrada,Baixa,PA,2023-06-24
+OS91,Em Processo,Alta,CC,2023-06-02
+OS92,Encerrada,Média,FAT,2023-06-16
+OS93,Encerrada,Alta,PA,2023-06-25
+OS94,Em Processo,Baixa,PA,2023-06-04
+OS95,Encerrada,Alta,FAT,2023-06-06
+OS96,Encerrada,Baixa,PA,2023-06-12
+OS97,Aberto,Alta,CC,2023-06-19
+OS98,Encerrada,Média,FAT,2023-06-15
+OS99,Encerrada,Alta,CTI,2023-06-24
+OS100,Em Processo,Baixa,PA,2023-06-24
