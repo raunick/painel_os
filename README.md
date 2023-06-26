@@ -17,11 +17,11 @@ Para executar o Painel TI, siga as etapas abaixo:
 
 Clone este repositório em sua máquina local:
 ```bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/raunick/painel_os.git
 ```
 Navegue até o diretório clonado:
 ```bash
-cd NOME_DO_REPOSITORIO
+cd painel_os
 ```
 Instale as dependências necessárias:
 ```bash
