@@ -1,6 +1,4 @@
 import streamlit as st
-from painel_os import painel_os
-from painel_os2 import painel_os2
 from painel_ti import painel_ti
 
 
