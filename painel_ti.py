@@ -50,11 +50,10 @@ def painel_ti():
             x="OS",
             y="Status",
             orientation="h",
-            title='teste'
         )
         st.plotly_chart(fig1, use_container_width=True)
 
-    # Gráfico de pizza - Prioridades das Ordens de Serviço
+    # Gráfico de barras - Prioridades das Ordens de Serviço
     with col2:
         st.header("🚀 Prioridades x Ordens de Serviço")
         priority_counts = df["Prioridade"].value_counts().reset_index()

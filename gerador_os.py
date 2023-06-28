@@ -7,8 +7,14 @@ data = {
     "Status": [],
     "Prioridade": [],
     "Setor": [],
-    "Data": []
+    "Data": [],
+    "Executante": [],
+    "Solicitante": []
 }
+
+# Exemplo de valores para os executantes e solicitantes
+executantes = ["RVVG", "SD", "GC", "FP", "RA"]
+solicitantes = ["João", "Maria", "Pedro", "Ana", "Carlos"]
 
 # Obter o mês atual
 data_atual = date.today()
@@ -40,6 +46,12 @@ for i in range(100):
     else:
         data["Setor"].append("PA")
     data["Data"].append(data_os)
+
+    # Adicionar executante e solicitante
+    executante = random.choice(executantes)
+    solicitante = random.choice(solicitantes)
+    data["Executante"].append(executante)
+    data["Solicitante"].append(solicitante)
 
 df = pd.DataFrame(data)
 

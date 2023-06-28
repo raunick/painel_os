@@ -1,0 +1,101 @@
+Número OS,Status,Prioridade,Setor,Data,Executante,Solicitante
+OS1,Aberto,Alta,CC,2023-06-25,RA,Ana
+OS2,Encerrada,Média,FAT,2023-06-01,RA,Maria
+OS3,Encerrada,Alta,CTI,2023-06-23,SD,João
+OS4,Em Processo,Baixa,PA,2023-06-10,RVVG,Maria
+OS5,Encerrada,Alta,FAT,2023-06-15,RVVG,Ana
+OS6,Encerrada,Baixa,PA,2023-06-22,GC,João
+OS7,Em Processo,Alta,CC,2023-06-14,GC,João
+OS8,Encerrada,Média,FAT,2023-06-20,GC,João
+OS9,Aberto,Alta,PA,2023-06-21,RA,João
+OS10,Em Processo,Baixa,PA,2023-06-09,SD,Carlos
+OS11,Encerrada,Alta,FAT,2023-06-27,RA,Pedro
+OS12,Encerrada,Baixa,PA,2023-06-02,RA,Ana
+OS13,Em Processo,Alta,CC,2023-06-08,RA,Maria
+OS14,Encerrada,Média,FAT,2023-06-11,GC,João
+OS15,Encerrada,Alta,CTI,2023-06-07,FP,João
+OS16,Em Processo,Baixa,PA,2023-06-10,RVVG,Maria
+OS17,Aberto,Alta,FAT,2023-06-09,SD,Carlos
+OS18,Encerrada,Baixa,PA,2023-06-17,GC,João
+OS19,Em Processo,Alta,CC,2023-06-10,GC,Maria
+OS20,Encerrada,Média,FAT,2023-06-11,FP,João
+OS21,Encerrada,Alta,PA,2023-06-17,RA,Pedro
+OS22,Em Processo,Baixa,PA,2023-06-11,RA,João
+OS23,Encerrada,Alta,FAT,2023-06-06,RA,João
+OS24,Encerrada,Baixa,PA,2023-06-05,SD,Carlos
+OS25,Aberto,Alta,CC,2023-06-12,RA,Pedro
+OS26,Encerrada,Média,FAT,2023-06-18,GC,Pedro
+OS27,Encerrada,Alta,CTI,2023-06-16,FP,Ana
+OS28,Em Processo,Baixa,PA,2023-06-27,RVVG,Maria
+OS29,Encerrada,Alta,FAT,2023-06-03,FP,Maria
+OS30,Encerrada,Baixa,PA,2023-06-08,RVVG,João
+OS31,Em Processo,Alta,CC,2023-06-09,GC,Ana
+OS32,Encerrada,Média,FAT,2023-06-16,SD,Pedro
+OS33,Aberto,Alta,PA,2023-06-15,FP,Carlos
+OS34,Em Processo,Baixa,PA,2023-06-21,GC,Ana
+OS35,Encerrada,Alta,FAT,2023-06-01,SD,João
+OS36,Encerrada,Baixa,PA,2023-06-15,RA,João
+OS37,Em Processo,Alta,CC,2023-06-09,GC,João
+OS38,Encerrada,Média,FAT,2023-06-05,RVVG,João
+OS39,Encerrada,Alta,CTI,2023-06-18,FP,João
+OS40,Em Processo,Baixa,PA,2023-06-28,SD,Maria
+OS41,Aberto,Alta,FAT,2023-06-16,FP,João
+OS42,Encerrada,Baixa,PA,2023-06-04,FP,João
+OS43,Em Processo,Alta,CC,2023-06-07,RA,Pedro
+OS44,Encerrada,Média,FAT,2023-06-01,RVVG,Pedro
+OS45,Encerrada,Alta,PA,2023-06-03,RA,Pedro
+OS46,Em Processo,Baixa,PA,2023-06-18,SD,João
+OS47,Encerrada,Alta,FAT,2023-06-19,SD,João
+OS48,Encerrada,Baixa,PA,2023-06-15,SD,Carlos
+OS49,Aberto,Alta,CC,2023-06-05,SD,João
+OS50,Encerrada,Média,FAT,2023-06-16,SD,João
+OS51,Encerrada,Alta,CTI,2023-06-03,RA,Maria
+OS52,Em Processo,Baixa,PA,2023-06-06,FP,Maria
+OS53,Encerrada,Alta,FAT,2023-06-20,GC,João
+OS54,Encerrada,Baixa,PA,2023-06-10,SD,Maria
+OS55,Em Processo,Alta,CC,2023-06-25,RA,João
+OS56,Encerrada,Média,FAT,2023-06-21,RA,Carlos
+OS57,Aberto,Alta,PA,2023-06-22,GC,Ana
+OS58,Em Processo,Baixa,PA,2023-06-06,RA,Ana
+OS59,Encerrada,Alta,FAT,2023-06-05,RA,Maria
+OS60,Encerrada,Baixa,PA,2023-06-16,FP,Maria
+OS61,Em Processo,Alta,CC,2023-06-15,RVVG,João
+OS62,Encerrada,Média,FAT,2023-06-20,SD,Carlos
+OS63,Encerrada,Alta,CTI,2023-06-28,FP,João
+OS64,Em Processo,Baixa,PA,2023-06-24,SD,Maria
+OS65,Aberto,Alta,FAT,2023-06-19,FP,Maria
+OS66,Encerrada,Baixa,PA,2023-06-22,RA,Pedro
+OS67,Em Processo,Alta,CC,2023-06-05,RA,João
+OS68,Encerrada,Média,FAT,2023-06-12,GC,Maria
+OS69,Encerrada,Alta,PA,2023-06-12,GC,Carlos
+OS70,Em Processo,Baixa,PA,2023-06-10,RVVG,Pedro
+OS71,Encerrada,Alta,FAT,2023-06-03,FP,Pedro
+OS72,Encerrada,Baixa,PA,2023-06-24,RVVG,Pedro
+OS73,Aberto,Alta,CC,2023-06-03,FP,Pedro
+OS74,Encerrada,Média,FAT,2023-06-06,RA,Carlos
+OS75,Encerrada,Alta,CTI,2023-06-24,FP,Ana
+OS76,Em Processo,Baixa,PA,2023-06-23,RA,Ana
+OS77,Encerrada,Alta,FAT,2023-06-19,FP,Pedro
+OS78,Encerrada,Baixa,PA,2023-06-05,GC,Carlos
+OS79,Em Processo,Alta,CC,2023-06-07,SD,Carlos
+OS80,Encerrada,Média,FAT,2023-06-08,RA,Maria
+OS81,Aberto,Alta,PA,2023-06-12,FP,Carlos
+OS82,Em Processo,Baixa,PA,2023-06-19,FP,João
+OS83,Encerrada,Alta,FAT,2023-06-24,FP,Ana
+OS84,Encerrada,Baixa,PA,2023-06-04,GC,Pedro
+OS85,Em Processo,Alta,CC,2023-06-14,RVVG,Carlos
+OS86,Encerrada,Média,FAT,2023-06-26,RVVG,Maria
+OS87,Encerrada,Alta,CTI,2023-06-16,GC,Maria
+OS88,Em Processo,Baixa,PA,2023-06-17,RA,João
+OS89,Aberto,Alta,FAT,2023-06-15,GC,Ana
+OS90,Encerrada,Baixa,PA,2023-06-13,RA,Maria
+OS91,Em Processo,Alta,CC,2023-06-22,FP,Carlos
+OS92,Encerrada,Média,FAT,2023-06-22,RVVG,Maria
+OS93,Encerrada,Alta,PA,2023-06-25,FP,Ana
+OS94,Em Processo,Baixa,PA,2023-06-15,RA,Maria
+OS95,Encerrada,Alta,FAT,2023-06-21,RA,Maria
+OS96,Encerrada,Baixa,PA,2023-06-21,RA,João
+OS97,Aberto,Alta,CC,2023-06-12,RA,Ana
+OS98,Encerrada,Média,FAT,2023-06-15,SD,Ana
+OS99,Encerrada,Alta,CTI,2023-06-09,FP,Ana
+OS100,Em Processo,Baixa,PA,2023-06-22,GC,Pedro
