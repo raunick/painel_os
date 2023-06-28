@@ -8,7 +8,7 @@ def painel_ti():
     df["OS"] = 1
     total_os = sum(df["OS"])
     # Título do aplicativo
-    st.title("💻 PAINEIS DE CHAMADOS DA TI 🔍")
+    st.title("📊 PAINEIS DE CHAMADOS DA TI 🚀")
     st.write(f'# Total OS abertas: {total_os}')
     # Contagem de Ordens de Serviço por Setor
     sector_counts = df["Setor"].value_counts().reset_index()

@@ -5,8 +5,12 @@ from painel_analistas import painel_analistas
 
 
 def main():
-    # Configura o layout para modo wide
-    st.set_page_config(layout="wide")
+    st.set_page_config(
+        page_title="PAINEL TI",
+        page_icon="🚀",
+        layout="wide",
+        initial_sidebar_state="expanded",
+    )
     st.sidebar.write("Selecione uma opção")
     menu = st.sidebar.selectbox('Selecione',
                                 ['📊 PAINEIS DE CHAMADOS DA TI 🚀',
