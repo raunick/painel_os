@@ -3,7 +3,6 @@ import pandas as pd
 from painel_ti import painel_ti
 from painel_analistas import painel_analistas
 
-
 def main():
     st.set_page_config(
         page_title="PAINEL TI",
@@ -12,10 +11,7 @@ def main():
         initial_sidebar_state="expanded",
     )
     st.sidebar.write("Selecione uma opção")
-    menu = st.sidebar.selectbox('Selecione',
-                                ['📊 PAINEIS DE CHAMADOS DA TI 🚀',
-                                '💻 PAINEIS DOS ANALISTAS DA TI 🔍'
-                                ]                                
+    menu = st.sidebar.selectbox('Selecione',['📊 PAINEIS DE CHAMADOS DA TI 🚀','💻 PAINEIS DOS ANALISTAS DA TI 🔍'                                ]                                
                                 )
     upload_file = st.sidebar.file_uploader("Upload de arquivo", type=["csv", "xlsx"],help='Insira seu arquivo em CSV ou em EXCEL')
 
