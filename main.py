@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from painel_ti import painel_ti
 from painel_analistas import painel_analistas
+from painelpacientes import *
 
 def main():
     st.set_page_config(
@@ -11,7 +12,9 @@ def main():
         initial_sidebar_state="expanded",
     )
     st.sidebar.write("Selecione uma opção")
-    menu = st.sidebar.selectbox('Selecione',['📊 PAINEIS DE CHAMADOS DA TI 🚀','💻 PAINEIS DOS ANALISTAS DA TI 🔍'                                ]                                
+    menu = st.sidebar.selectbox('Selecione',['📊 PAINEIS DE CHAMADOS DA TI 🚀'
+                                             ,'💻 PAINEIS DOS ANALISTAS DA TI 🔍' 
+                                              ,'PAINEIS DE INTERNAÇÃO' ]                                
                                 )
     upload_file = st.sidebar.file_uploader("Upload de arquivo", type=["csv", "xlsx"],help='Insira seu arquivo em CSV ou em EXCEL')
 
@@ -25,5 +28,7 @@ def main():
         painel_ti()
     elif menu == '💻 PAINEIS DOS ANALISTAS DA TI 🔍':
         painel_analistas(dados)
+    elif menu == 'PAINEIS DE INTERNAÇÃO':
+        painel_internacao()
 if __name__ == "__main__":
     main()
